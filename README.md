@@ -14,6 +14,12 @@ This repository contains all the code needed to run the Defed.
 
 The implementation is based on **Pytorch**.
 
+In particular:
 
+- 1-collect_benign_data.py：Used to filter images from dataset that can be correctly predicted by the classification model
+- 2-generate_adv_images.py: Used to generate adversarial samples
+- 3-BaseNet-Train.py: Training of baseline network model (BaseNet: no edge detection operator)
+- 4-Defed-Train.py: Training of network models based on edge feature enhancement(Defed)
+- 5-multi-processors-defender.py: our main.py
 
 
