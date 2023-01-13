@@ -6,3 +6,12 @@ With the prosperous development of Internet of Things (IoT), IoT devices have be
 **Published in: IEEE Internet of Things Journal**
 
 paper: https://ieeexplore.ieee.org/document/9983796
+
+
+## Code
+This repository contains all the code needed to run the Defed. 
+
+The implementation is based on **Pytorch**.
+
+In particular:
+
