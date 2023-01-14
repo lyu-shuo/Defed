@@ -24,7 +24,7 @@ In particular:
 
 
 ## Citation
-'''
+```
 @article{xiao2022defed,
   title={Defed: An Edge Feature Enhanced Image Denoised Networks Against Adversarial Attacks for Secure Internet-of-Things},
   author={Xiao, Yang and Yan, Chengjia and Lyu, Shuo and Pei, Qingqi and Liu, Ximeng and Zhang, Ning and Dong, Mianxiong},
@@ -32,4 +32,4 @@ In particular:
   year={2022},
   publisher={IEEE}
 }
-'''
+```
