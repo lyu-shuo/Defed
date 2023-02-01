@@ -83,7 +83,7 @@ class SkipBlock(nn.Module):
         return x + short_cut
 
     
-class ERN(nn.Module):
+class Defed(nn.Module):
     def __init__(self, num_channels, edge_method: str = 'laplacian'):
         super(ERN, self).__init__()
         self.skip1 = SkipBlock(in_channels=num_channels, out_channels=num_channels, mid_channels=16, num=3)
